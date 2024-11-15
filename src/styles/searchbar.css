@@ -1,0 +1,10 @@
+.customTextField .MuiOutlinedInput-root {
+    border: none; /* Remove the outer border */
+    box-shadow: none; /* Remove shadow effect */
+    width: 275px;
+}
+
+.customTextField .MuiOutlinedInput-notchedOutline {
+     /* Remove outline border */
+    
+}
